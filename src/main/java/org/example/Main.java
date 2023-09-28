@@ -3,7 +3,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-
         MediaController mediaController1 = new MediaController();
         Playable videoPlayer1 = new VideoPlayer();
         Playable musicPlayer1 = new MusicPlayer();
